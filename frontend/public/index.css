@@ -62,3 +62,22 @@
 .styled-list li {
   line-height: 2em;
 }
+
+#self-introduction {
+  font-family:'Times New Roman', Times, serif ;
+  position:fixed;
+  left:500px;
+  width: 300px;
+  border: 25px;
+  padding: 25px;
+  margin: 55px;
+  color:#fbc2eb;
+}
+
+#self-picture {
+  position:relative;
+  left:1000px;
+  top: 110px;
+  width:280px; 
+  height:425px;
+}
